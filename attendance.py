@@ -70,8 +70,3 @@ while True:
 
 
 
-#imgAdhi=face_recognition.load_image_file('Images/adhi_train.jpeg')
-#imgAdhi=cv2.cvtColor(imgAdhi,cv2.COLOR_BGR2RGB)
-#imgTest=face_recognition.load_image_file('Images/adhi_test.jpeg')
-#imgTest=cv2.cvtColor(imgTest,cv2.COLOR_BGR2RGB)
-
